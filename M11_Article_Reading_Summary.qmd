@@ -1,18 +1,12 @@
 ---
-title: "M11: Article Reading and Summary"
-subtitle: "Understanding Mediators and Moderators"
+title: "M11 Article Reading and Summary: Mediation and Moderation"
 author: "Xueying Luo"
-date: Today
 format:
   html:
-    theme: cosmo
     toc: true
     toc-depth: 3
-    toc-location: right
-    number-sections: true
-    smooth-scroll: true
+    theme: cosmo
     embed-resources: true
-editor: visual
 ---
 
 # Important Concepts
