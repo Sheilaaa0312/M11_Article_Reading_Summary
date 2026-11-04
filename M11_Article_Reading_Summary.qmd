@@ -34,7 +34,7 @@ Basic idea: `X → M → Y` (X influences the mediator M, which is related to Y)
 ## Quick Comparison
 
 |   | Moderator | Mediator |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Main question | When or for whom does an effect change? | How or why does an effect happen? |
 | Role | Changes the strength or direction of a relationship | Helps explain the process behind a relationship |
 | Main statistical focus | Interaction effect | Paths connecting X, M, and Y |
@@ -70,5 +70,5 @@ So my biggest takeaway is that choosing the right type of variable should come b
 
 # Appendix
 
-- [GitHub Repository](https://github.com/Sheilaaa0312/M11_Article_Reading_Summary?utm_source=chatgpt.com)
-- GitHub Pages
+- [GitHub Repository](https://github.com/Sheilaaa0312/M11_Article_Reading_Summary)
+- [GitHub Pages](https://sheilaaa0312.github.io/M11_Article_Reading_Summary)
